@@ -1,0 +1,28 @@
+name: Carol A. Harnett
+favicon: null
+layout_spectrum: 0.02006505336612463
+typography_spectrum: 0.5575923421420157
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.7868074316065758
+  lightness: 0.42859863536432385
+  saturation: 0.823752777883783
+  rhythmicContrast: 0.4251852266024798
+purpose: []
